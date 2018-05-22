@@ -14,7 +14,7 @@ Pour modifier les couleurs de l'addon, il faut:
 
 -Aller dans /addons/omlg_hud/lua/autorun/omlg-config.lua et modifier les valeurs.
 
-/!\ NE PAS REUPLOAD / VENDRE CET ADDONS !
+
 ------------------------------------------------------
 
 
@@ -33,5 +33,3 @@ To change the colors of the addon, you must:
 
 -Go to /addons/omlg_hud/lua/autorun/omlg-config.lua and modify the values.
 
-
-/!\ DON'T REUPLOAD / SELL THIS ADDONS TO THE PEOPLE !
