@@ -1,0 +1,11 @@
+{
+	"title"		:	"OMLG_HUD",
+	"type"		:	"Effects",
+	"tags"		:	[ "Fun", "Roleplay" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
